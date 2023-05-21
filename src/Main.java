@@ -210,7 +210,7 @@ public class Main {
                                 int pp10 = JOptionPane.showConfirmDialog(null,
                                         "Confirme se seu nome esta correto" + "\n<" + user10 + ">");
                                 if (pp10 == okOption) {
-                                    JOptionPane.showMessageDialog(null, "Categoria: Criança"
+                                    JOptionPane.showMessageDialog(null, "Categoria: Adolescente"
                                                     + "\nSeu email: " + email + "\nSua senha: " + senha +
                                                     "\nSeu nome: " + user10 + "\nAgradecemos Sua colaboração!!! 😁👍😉",
                                             "Cadastro", JOptionPane.INFORMATION_MESSAGE);
@@ -220,7 +220,7 @@ public class Main {
                                     int pp11 = JOptionPane.showConfirmDialog(null,
                                             "Confirme se seu nome esta correto" + "\n<" + user11 + ">");
                                     if (pp11 == okOption) {
-                                        JOptionPane.showMessageDialog(null, "Categoria: Criança"
+                                        JOptionPane.showMessageDialog(null, "Categoria: Adolescente"
                                                         + "\nSeu email: " + email + "\nSua senha: " + senha +
                                                         "\nSeu nome: " + user11 + "\nAgradecemos Sua colaboração!!! 😁👍😉",
                                                 "Cadastro", JOptionPane.INFORMATION_MESSAGE);
@@ -242,7 +242,7 @@ public class Main {
                                 int pp12 = JOptionPane.showConfirmDialog(null,
                                         "Confirme se seu nome esta correto" + "\n<" + user12 + ">");
                                 if (pp12 == okOption) {
-                                    JOptionPane.showMessageDialog(null, "Categoria: Criança"
+                                    JOptionPane.showMessageDialog(null, "Categoria: Adulto"
                                                     + "\nSeu email: " + email + "\nSua senha: " + senha +
                                                     "\nSeu nome: " + user12 + "\nAgradecemos Sua colaboração!!! 😁👍😉",
                                             "Cadastro", JOptionPane.INFORMATION_MESSAGE);
@@ -252,7 +252,7 @@ public class Main {
                                     int pp13 = JOptionPane.showConfirmDialog(null,
                                             "Confirme se seu nome esta correto" + "\n<" + user13 + ">");
                                     if (pp13 == okOption) {
-                                        JOptionPane.showMessageDialog(null, "Categoria: Criança"
+                                        JOptionPane.showMessageDialog(null, "Categoria: Adulto"
                                                         + "\nSeu email: " + email + "\nSua senha: " + senha +
                                                         "\nSeu nome: " + user13 + "\nAgradecemos Sua colaboração!!! 😁👍😉",
                                                 "Cadastro", JOptionPane.INFORMATION_MESSAGE);
@@ -273,7 +273,7 @@ public class Main {
                                 int pp14 = JOptionPane.showConfirmDialog(null,
                                         "Confirme se seu nome esta correto" + "\n<" + user14 + ">");
                                 if (pp14 == okOption) {
-                                    JOptionPane.showMessageDialog(null, "Categoria: Criança"
+                                    JOptionPane.showMessageDialog(null, "Categoria: Idoso"
                                                     + "\nSeu email: " + email + "\nSua senha: " + senha +
                                                     "\nSeu nome: " + user14 + "\nAgradecemos Sua colaboração!!! 😁👍😉",
                                             "Cadastro", JOptionPane.INFORMATION_MESSAGE);
@@ -283,7 +283,7 @@ public class Main {
                                     int pp15 = JOptionPane.showConfirmDialog(null,
                                             "Confirme se seu nome esta correto" + "\n<" + user15 + ">");
                                     if (pp15 == okOption) {
-                                        JOptionPane.showMessageDialog(null, "Categoria: Criança"
+                                        JOptionPane.showMessageDialog(null, "Categoria: Idoso"
                                                         + "\nSeu email: " + email + "\nSua senha: " + senha +
                                                         "\nSeu nome: " + user15 + "\nAgradecemos Sua colaboração!!! 😁👍😉",
                                                 "Cadastro", JOptionPane.INFORMATION_MESSAGE);
@@ -370,7 +370,7 @@ public class Main {
                             int pp18 = JOptionPane.showConfirmDialog(null,
                                     "Confirme se seu nome esta correto" + "\n<" + user18 + ">");
                             if (pp18 == okOption) {
-                                JOptionPane.showMessageDialog(null, "Categoria: Criança" +
+                                JOptionPane.showMessageDialog(null, "Categoria: Adolescente" +
                                                 "\nSeu email: " + email + "\nSua senha: " + senha2 +
                                                 "\nSeu nome: " + user18 + "\nAgradecemos Sua colaboração!!! 😁👍😉",
                                         "Cadastro", JOptionPane.INFORMATION_MESSAGE);
@@ -380,7 +380,7 @@ public class Main {
                                 int pp19 = JOptionPane.showConfirmDialog(null,
                                         "Confirme se seu nome esta correto" + "\n<" + user19 + ">");
                                 if (pp19 == okOption) {
-                                    JOptionPane.showMessageDialog(null, "Categoria: Criança" +
+                                    JOptionPane.showMessageDialog(null, "Categoria: Adolescente" +
                                                     "\nSeu email: " + email + "\nSua senha: " + senha2 +
                                                     "\nSeu nome: " + user19 + "\nAgradecemos Sua colaboração!!! 😁👍😉",
                                             "Cadastro", JOptionPane.INFORMATION_MESSAGE);
@@ -401,7 +401,7 @@ public class Main {
                             int pp20 = JOptionPane.showConfirmDialog(null,
                                     "Confirme se seu nome esta correto" + "\n<" + user20 + ">");
                             if (pp20 == okOption) {
-                                JOptionPane.showMessageDialog(null, "Categoria: Criança" +
+                                JOptionPane.showMessageDialog(null, "Categoria: Adulto" +
                                                 "\nSeu email: " + email + "\nSua senha: " + senha2 +
                                                 "\nSeu nome: " + user20 + "\nAgradecemos Sua colaboração!!! 😁👍😉",
                                         "Cadastro", JOptionPane.INFORMATION_MESSAGE);
@@ -412,7 +412,7 @@ public class Main {
                                         "Confirme se seu nome esta correto" + "\n<" + user21 + ">");
                                 if (pp21 == okOption) {
                                     JOptionPane.showMessageDialog(null,
-                                            "Categoria: Criança" + "\nSeu email: " + email + "\nSua senha: " + senha2 +
+                                            "Categoria: Adulto" + "\nSeu email: " + email + "\nSua senha: " + senha2 +
                                                     "\nSeu nome: " + user21 + "\nAgradecemos Sua colaboração!!! 😁👍😉",
                                             "Cadastro", JOptionPane.INFORMATION_MESSAGE);
                                 } else {
@@ -432,7 +432,7 @@ public class Main {
                                     "Confirme se seu nome esta correto" + "\n<" + user21 + ">");
                             if (pp21 == okOption) {
                                 JOptionPane.showMessageDialog(null,
-                                        "Categoria: Criança" + "\nSeu email: " + email + "\nSua senha: " + senha2 +
+                                        "Categoria: Idoso" + "\nSeu email: " + email + "\nSua senha: " + senha2 +
                                                 "\nSeu nome: " + user21 + "\nAgradecemos Sua colaboração!!! 😁👍😉",
                                         "Cadastro", JOptionPane.INFORMATION_MESSAGE);
                             } else if (pp21 == noOption) {
@@ -442,7 +442,7 @@ public class Main {
                                         "Confirme se seu nome esta correto" + "\n<" + user22 + ">");
                                 if (pp22 == okOption) {
                                     JOptionPane.showMessageDialog(null,
-                                            "Categoria: Criança " + "\nSeu email:" + email + "\nSua senha: " + senha2 +
+                                            "Categoria: Idoso " + "\nSeu email:" + email + "\nSua senha: " + senha2 +
                                                     "\nSeu nome: " + user22 + "\nAgradecemos Sua colaboração!!! 😁👍😉",
                                             "Cadastro", JOptionPane.INFORMATION_MESSAGE);
                                 } else {
@@ -505,7 +505,7 @@ public class Main {
                                 int pp24 = JOptionPane.showConfirmDialog(null,
                                         "Confirme se seu nome esta correto" + "\n<" + user24 + ">");
                                 if (pp24 == okOption) {
-                                    JOptionPane.showMessageDialog(null, "Categoria: Criança" + "\nSeu email: " + email +
+                                    JOptionPane.showMessageDialog(null, "Categoria: Adolescente" + "\nSeu email: " + email +
                                                     "\nSua senha: " + senha3 + "\nSeu nome: " + user24 + "\nAgradecemos Sua colaboração!!! 😁👍😉",
                                             "Cadastro", JOptionPane.INFORMATION_MESSAGE);
                                 } else if (pp24 == noOption) {
@@ -514,7 +514,7 @@ public class Main {
                                     int pp25 = JOptionPane.showConfirmDialog(null,
                                             "Confirme se seu nome esta correto" + "\n<" + user25 + ">");
                                     if (pp25 == okOption) {
-                                        JOptionPane.showMessageDialog(null, "Categoria: Criança" + "\nSeu email: " + email +
+                                        JOptionPane.showMessageDialog(null, "Categoria: Adolescente" + "\nSeu email: " + email +
                                                         "\nSua senha: " + senha3 + "\nSeu nome: " + user25 + "\nAgradecemos Sua colaboração!!! 😁👍😉",
                                                 "Cadastro", JOptionPane.INFORMATION_MESSAGE);
                                     } else {
@@ -533,7 +533,7 @@ public class Main {
                                 int pp26 = JOptionPane.showConfirmDialog(null,
                                         "Confirme se seu nome esta correto" + "\n<" + user26 + ">");
                                 if (pp26 == okOption) {
-                                    JOptionPane.showMessageDialog(null, "Categoria: Criança" + "\nSeu email: " + email +
+                                    JOptionPane.showMessageDialog(null, "Categoria: Adulto" + "\nSeu email: " + email +
                                                     "\nSua senha: " + senha3 + "\nSeu nome: " + user26 + "\nAgradecemos Sua colaboração!!! 😁👍😉",
                                             "Cadastro", JOptionPane.INFORMATION_MESSAGE);
                                 } else if (pp26 == noOption) {
@@ -542,7 +542,7 @@ public class Main {
                                     int pp27 = JOptionPane.showConfirmDialog(null,
                                             "Confirme se seu nome esta correto" + "\n<" + user27 + ">");
                                     if (pp27 == okOption) {
-                                        JOptionPane.showMessageDialog(null, "Categoria: Criança"
+                                        JOptionPane.showMessageDialog(null, "Categoria: Adulto"
                                                         + "\nSeu email: " + email + "\nSua senha: " + senha3 +
                                                         "\nSeu nome: " + user27 + "\nAgradecemos Sua colaboração!!! 😁👍😉",
                                                 "Cadastro", JOptionPane.INFORMATION_MESSAGE);
@@ -562,7 +562,7 @@ public class Main {
                                 int pp28 = JOptionPane.showConfirmDialog(null,
                                         "Confirme se seu nome esta correto" + "\n<" + user28 + ">");
                                 if (pp28 == okOption) {
-                                    JOptionPane.showMessageDialog(null, "Categoria: Criança" +
+                                    JOptionPane.showMessageDialog(null, "Categoria: Idoso" +
                                                     "\nSeu email: " + email + "\nSua senha: " + senha3 +
                                                     "\nSeu nome: " + user28 + "\nAgradecemos Sua colaboração!!! 😁👍😉",
                                             "Cadastro", JOptionPane.INFORMATION_MESSAGE);
@@ -573,7 +573,7 @@ public class Main {
                                             "Confirme se seu nome esta correto" + "\n<" + user29 + ">");
                                     if (pp29 == okOption) {
                                         JOptionPane.showMessageDialog(null,
-                                                "Categoria: Criança" + "\nSeu email: " + email + "\nSua senha: " + senha3 +
+                                                "Categoria: Idoso" + "\nSeu email: " + email + "\nSua senha: " + senha3 +
                                                         "\nSeu nome: " + user29 + "\nAgradecemos Sua colaboração!!! 😁👍😉",
                                                 "Cadastro", JOptionPane.INFORMATION_MESSAGE);
                                     } else {
